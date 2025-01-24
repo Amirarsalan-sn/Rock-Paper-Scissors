@@ -1,0 +1,6 @@
+train: D:\Vision Project\train\images
+val: D:\Vision Project\val\images
+
+
+nc: 3
+names: ['P', 'R', 'S']
